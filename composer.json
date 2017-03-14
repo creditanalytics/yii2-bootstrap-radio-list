@@ -1,5 +1,5 @@
 {
-    "name": "kolyunya/yii2-bootstrap-radio-list",
+    "name": "creditanalytics/yii2-bootstrap-radio-list",
     "description": "Yii2 Bootstrap radio list widget.",
     "keywords":
     [
@@ -10,22 +10,21 @@
         "radio-list",
         "radio-button"
     ],
-    "homepage": "https://github.com/Kolyunya/yii2-bootstrap-radio-list",
+    "homepage": "https://github.com/creditanalytics/yii2-bootstrap-radio-list",
     "type": "yii2-extension",
     "license": "GNU GPL v3.0",
     "authors":
     [
         {
-            "name": "Oleynikov Nikolay",
-            "email": "OleynikovNY@mail.ru",
-            "homepage": "http://github.com/Kolyunya/"
+            "name": "Dmitriy Bushin",
+            "email": "dima.bushin@gmail.com",
         }
     ],
     "autoload":
     {
         "psr-4":
         {
-            "kolyunya\\yii2\\": "sources"
+            "creditanalitics\\radiotoggle\\": "sources"
         }
     }
 }
